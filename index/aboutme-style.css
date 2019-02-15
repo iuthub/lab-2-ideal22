@@ -1,0 +1,30 @@
+body {
+	background-color: #595547;
+	font-size: 20px;
+	font-family: Verdana;
+	font-weight: 5px;
+	font-style: italic;
+}
+
+h1, h2 {
+	color: #E24B31;
+}
+
+ol li a {
+	color: #000;
+}
+
+p strong {
+	color: #E2A65D;
+}
+p {
+	color: #D0E2D8;
+}
+
+ul li {
+	color: #D0E2D8;
+}
+
+ol li {
+	color: #D0E2D8;
+}
